@@ -1,5 +1,15 @@
 # @sveltejs/kit
 
+## 1.0.0-next.203
+
+### Patch Changes
+
+- Update vite-plugin-svelte to 1.0.0-next.32 ([#3048](https://github.com/sveltejs/kit/pull/3048))
+
+* fix `sveltekit:prefetch` mouse detection ([#2995](https://github.com/sveltejs/kit/pull/2995))
+
+- Fix invalid amp-install-serviceworker ([#3075](https://github.com/sveltejs/kit/pull/3075))
+
 ## 1.0.0-next.202
 
 ### Patch Changes
